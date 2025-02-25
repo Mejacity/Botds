@@ -1,0 +1,50 @@
+[2025-02-24 21:21:30] Сообщение от TruckersHub#0000 с Embed:
+  Заголовок Embed: Job Started
+  Описание Embed: None
+  Автор Embed: mejacidy21
+  Поле Embed: Planned Distance - 562
+  Поле Embed: Cargo - Арбузы
+  Поле Embed: Cargo Mass - 20 t
+  Поле Embed: Market - Quick Job
+  Поле Embed: From - München (TransiNet)
+  Поле Embed: To - Rijeka (Stokes)
+[2025-02-24 21:25:24] Сообщение от TruckersHub#0000 с Embed:
+  Заголовок Embed: Job Delivery #705042
+  Описание Embed: None
+  Автор Embed: mejacidy21
+  Footer Embed: Client Version: 1.4.4
+  Поле Embed: Distance - 1km
+  Поле Embed: THP - 0.16
+  Поле Embed: Revenue - Ŧ0
+  Поле Embed: Earned XP - 1
+  Поле Embed: Income - €16,457
+  Поле Embed: Rating - 4.96 ⭐
+  Поле Embed: Is Simulation Job - No
+  Поле Embed: Top Speed - 36.58 km/h
+  Поле Embed: Average Speed - 33.88 km/h
+  Поле Embed: Truck - DAF NGD
+  Поле Embed: Truck Damage - 4%
+  Поле Embed: Fuel Burned - 1 L
+  Поле Embed: Cargo - Watermelons
+  Поле Embed: Cargo Mass - 20 t
+  Поле Embed: Cargo Damage - 0 %
+  Поле Embed: Game - ETS2
+  Поле Embed: Game Version - 1.53.3.21
+  Поле Embed: Market - Quick Job
+  Поле Embed: From - München (TransiNet)
+  Поле Embed: To - Rijeka (Stokes)
+  Поле Embed: ​ - ​
+  Поле Embed: Started At - <t:1740428489:F>
+  Поле Embed: Ended At - <t:1740428712:F>
+[2025-02-24 21:41:22] Сообщение от mejacityde: статистика
+[2025-02-24 21:42:16] Сообщение от mejacityde: статистика
+[2025-02-24 21:42:26] Сообщение от mejacityde: !статистика
+[2025-02-24 21:42:48] Сообщение от mejacityde: !статистика
+[2025-02-24 21:44:20] Сообщение от mejacityde: статистика
+[2025-02-24 21:44:26] Сообщение от mejacityde: !статистика
+[2025-02-24 21:45:22] Сообщение от mejacityde: !статистика
+[2025-02-24 21:45:37] Сообщение от mejacityde: статистика
+[2025-02-24 22:01:24] Сообщение от mejacityde: вапырловапр
+[2025-02-24 22:08:06] Сообщение от mejacityde: арывлоарыв
+[2025-02-24 22:08:12] Сообщение от mejacityde: !статистика\
+[2025-02-24 22:08:19] Сообщение от mejacityde: !статистика
